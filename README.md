@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abebe Nega 👋
 
-<!--
-**AbebeNega1/AbebeNega1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Computer Engineer (Computer Focus)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Full-Stack Developer
+- Machine Learning Enthusiast
+- React Developer
+- Python Developer
+- Interested in Networking and Computer Systems
+
+## Technical Skills
+
+- Python
+- JavaScript
+- React
+- Flask
+- Node.js
+- Express.js
+- MySQL
+- Git & GitHub
+
+## Featured Projects
+
+### Intelligent Patient Triage System
+Machine Learning-based healthcare decision support system.
+
+### Garage Management System
+Full-stack web application for garage operations management.
+
+## Contact
+
+Email: abebenega23@gmail.com
+LinkedIn: linkedin.com/in/abebe-nega-7635903aa
